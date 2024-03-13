@@ -1,0 +1,1 @@
+user_mark = input("mark 1: ")
