@@ -1,3 +1,5 @@
-i = int(input("enter your number"))
-n = int(input("enter your number"))
-print(i > n)
+#ჩვენ მომხმარებლებს უნდა შემოვატანინოტ ორი რიცხვი და შევადაროთ
+
+number3 = int(input("enter your number:"))
+number5 = int(input("enter your number:"))
+ print
